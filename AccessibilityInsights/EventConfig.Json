@@ -1,0 +1,1651 @@
+﻿{
+  "Events": [
+    {
+      "Type": 0,
+      "Name": "ToolTipOpened",
+      "Id": 20000,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "ToolTipClosed",
+      "Id": 20001,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "StructureChanged",
+      "Id": 20002,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "MenuOpened",
+      "Id": 20003,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "AsyncContentLoaded",
+      "Id": 20006,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "MenuClosed",
+      "Id": 20007,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "LayoutInvalidated",
+      "Id": 20008,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Invoke_Invoked",
+      "Id": 20009,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "SelectionItem_ElementAddedToSelection",
+      "Id": 20010,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "SelectionItem_ElementRemovedFromSelection",
+      "Id": 20011,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "SelectionItem_ElementSelected",
+      "Id": 20012,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Selection_Invalidated",
+      "Id": 20013,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Text_TextSelectionChanged",
+      "Id": 20014,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Text_TextChanged",
+      "Id": 20015,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Window_WindowOpened",
+      "Id": 20016,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Window_WindowClosed",
+      "Id": 20017,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "MenuModeStart",
+      "Id": 20018,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "MenuModeEnd",
+      "Id": 20019,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "InputReachedTarget",
+      "Id": 20020,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "InputReachedOtherElement",
+      "Id": 20021,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "InputDiscarded",
+      "Id": 20022,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "SystemAlert",
+      "Id": 20023,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "LiveRegionChanged",
+      "Id": 20024,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "HostedFragmentRootsInvalidated",
+      "Id": 20025,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Drag_DragStart",
+      "Id": 20026,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Drag_DragCancel",
+      "Id": 20027,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Drag_DragComplete",
+      "Id": 20028,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "DropTarget_DragEnter",
+      "Id": 20029,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "DropTarget_DragLeave",
+      "Id": 20030,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "DropTarget_Dropped",
+      "Id": 20031,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "TextEdit_TextChanged",
+      "Id": 20032,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "TextEdit_ConversionTargetChanged",
+      "Id": 20033,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Changes",
+      "Id": 20034,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "Notification",
+      "Id": 20035,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 0,
+      "Name": "ActiveTextPositionChanged",
+      "Id": 20036,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    }
+  ],
+  "Properties": [
+    {
+      "Type": 1,
+      "Name": "RuntimeId",
+      "Id": 30000,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "BoundingRectangle",
+      "Id": 30001,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ProcessId",
+      "Id": 30002,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ControlType",
+      "Id": 30003,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LocalizedControlType",
+      "Id": 30004,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Name",
+      "Id": 30005,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AcceleratorKey",
+      "Id": 30006,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AccessKey",
+      "Id": 30007,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "HasKeyboardFocus",
+      "Id": 30008,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsKeyboardFocusable",
+      "Id": 30009,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsEnabled",
+      "Id": 30010,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AutomationId",
+      "Id": 30011,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ClassName",
+      "Id": 30012,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "HelpText",
+      "Id": 30013,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ClickablePoint",
+      "Id": 30014,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Culture",
+      "Id": 30015,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsControlElement",
+      "Id": 30016,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsContentElement",
+      "Id": 30017,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LabeledBy",
+      "Id": 30018,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsPassword",
+      "Id": 30019,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "NativeWindowHandle",
+      "Id": 30020,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ItemType",
+      "Id": 30021,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsOffscreen",
+      "Id": 30022,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Orientation",
+      "Id": 30023,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "FrameworkId",
+      "Id": 30024,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsRequiredForForm",
+      "Id": 30025,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ItemStatus",
+      "Id": 30026,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsDockPatternAvailable",
+      "Id": 30027,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsExpandCollapsePatternAvailable",
+      "Id": 30028,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsGridItemPatternAvailable",
+      "Id": 30029,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsGridPatternAvailable",
+      "Id": 30030,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsInvokePatternAvailable",
+      "Id": 30031,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsMultipleViewPatternAvailable",
+      "Id": 30032,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsRangeValuePatternAvailable",
+      "Id": 30033,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsScrollPatternAvailable",
+      "Id": 30034,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsScrollItemPatternAvailable",
+      "Id": 30035,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsSelectionItemPatternAvailable",
+      "Id": 30036,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsSelectionPatternAvailable",
+      "Id": 30037,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsTablePatternAvailable",
+      "Id": 30038,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsTableItemPatternAvailable",
+      "Id": 30039,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsTextPatternAvailable",
+      "Id": 30040,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsTogglePatternAvailable",
+      "Id": 30041,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsTransformPatternAvailable",
+      "Id": 30042,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsValuePatternAvailable",
+      "Id": 30043,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsWindowPatternAvailable",
+      "Id": 30044,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ValuePattern.Value",
+      "Id": 30045,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ValuePattern.IsReadOnly",
+      "Id": 30046,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "RangeValuePattern.Value",
+      "Id": 30047,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "RangeValuePattern.IsReadOnly",
+      "Id": 30048,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "RangeValuePattern.Minimum",
+      "Id": 30049,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "RangeValuePattern.Maximum",
+      "Id": 30050,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "RangeValuePattern.LargeChange",
+      "Id": 30051,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "RangeValuePattern.SmallChange",
+      "Id": 30052,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ScrollPattern.HorizontalScrollPercent",
+      "Id": 30053,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ScrollPattern.HorizontalViewSize",
+      "Id": 30054,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ScrollPattern.VerticalScrollPercent",
+      "Id": 30055,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ScrollPattern.VerticalViewSize",
+      "Id": 30056,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ScrollPattern.HorizontallyScrollable",
+      "Id": 30057,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ScrollPattern.VerticallyScrollable",
+      "Id": 30058,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "SelectionPattern.Selection",
+      "Id": 30059,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "SelectionPattern.CanSelectMultiple",
+      "Id": 30060,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "SelectionPattern.IsSelectionRequired",
+      "Id": 30061,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "GridPattern.RowCount",
+      "Id": 30062,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "GridPattern.ColumnCount",
+      "Id": 30063,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "GridItemPattern.Row",
+      "Id": 30064,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "GridItemPattern.Column",
+      "Id": 30065,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "GridItemPattern.RowSpan",
+      "Id": 30066,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "GridItemPattern.ColumnSpan",
+      "Id": 30067,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "GridItemPattern.ContainingGrid",
+      "Id": 30068,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "DockDockPosition",
+      "Id": 30069,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ExpandCollapseExpandCollapseState",
+      "Id": 30070,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "MultipleViewPattern.CurrentView",
+      "Id": 30071,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "MultipleViewPattern.SupportedViews",
+      "Id": 30072,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "WindowPattern.CanMaximize",
+      "Id": 30073,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "WindowPattern.CanMinimize",
+      "Id": 30074,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "WindowPattern.WindowVisualState",
+      "Id": 30075,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "WindowPattern.WindowInteractionState",
+      "Id": 30076,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "WindowPattern.IsModal",
+      "Id": 30077,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "WindowPattern.IsTopmost",
+      "Id": 30078,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "SelectionItemPattern.IsSelected",
+      "Id": 30079,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "SelectionItemPattern.SelectionContainer",
+      "Id": 30080,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "TablePattern.RowHeaders",
+      "Id": 30081,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "TablePattern.ColumnHeaders",
+      "Id": 30082,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "TablePattern.RowOrColumnMajor",
+      "Id": 30083,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "TableItemPattern.RowHeaderItems",
+      "Id": 30084,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "TableItemPattern.ColumnHeaderItems",
+      "Id": 30085,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "TogglePattern.ToggleState",
+      "Id": 30086,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "TransformPattern.CanMove",
+      "Id": 30087,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "TransformPattern.CanResize",
+      "Id": 30088,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "TransformPattern.CanRotate",
+      "Id": 30089,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsLegacyIAccessiblePatternAvailable",
+      "Id": 30090,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.ChildId",
+      "Id": 30091,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.Name",
+      "Id": 30092,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.Value",
+      "Id": 30093,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.Description",
+      "Id": 30094,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.Role",
+      "Id": 30095,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.State",
+      "Id": 30096,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.Help",
+      "Id": 30097,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.KeyboardShortcut",
+      "Id": 30098,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.Selection",
+      "Id": 30099,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LegacyIAccessiblePattern.DefaultAction",
+      "Id": 30100,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AriaRole",
+      "Id": 30101,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AriaProperties",
+      "Id": 30102,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsDataValidForForm",
+      "Id": 30103,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ControllerFor",
+      "Id": 30104,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "DescribedBy",
+      "Id": 30105,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "FlowsTo",
+      "Id": 30106,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "ProviderDescription",
+      "Id": 30107,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsItemContainerPatternAvailable",
+      "Id": 30108,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsVirtualizedItemPatternAvailable",
+      "Id": 30109,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsSynchronizedInputPatternAvailable",
+      "Id": 30110,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "OptimizeForVisualContent",
+      "Id": 30111,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsObjectModelPatternAvailable",
+      "Id": 30112,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AnnotationPattern.AnnotationTypeId",
+      "Id": 30113,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AnnotationPattern.AnnotationTypeName",
+      "Id": 30114,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AnnotationPattern.Author",
+      "Id": 30115,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AnnotationPattern.DateTime",
+      "Id": 30116,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AnnotationPattern.Target",
+      "Id": 30117,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsAnnotationPatternAvailable",
+      "Id": 30118,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsTextPattern2Available",
+      "Id": 30119,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "StylesPattern.StyleId",
+      "Id": 30120,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "StylesPattern.StyleName",
+      "Id": 30121,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "StylesPattern.FillColor",
+      "Id": 30122,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "StylesPattern.FillPatternStyle",
+      "Id": 30123,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "StylesPattern.Shape",
+      "Id": 30124,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "StylesPattern.FillPatternColor",
+      "Id": 30125,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "StylesPattern.ExtendedProperties",
+      "Id": 30126,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsStylesPatternAvailable",
+      "Id": 30127,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsSpreadsheetPatternAvailable",
+      "Id": 30128,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "SpreadsheetItemPatternFormula",
+      "Id": 30129,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "SpreadsheetItemPattern.AnnotationObjects",
+      "Id": 30130,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "SpreadsheetItemPattern.AnnotationTypes",
+      "Id": 30131,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsSpreadsheetItemPatternAvailable",
+      "Id": 30132,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Transform2Pattern.CanZoom",
+      "Id": 30133,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsTransformPattern2Available",
+      "Id": 30134,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LiveSetting",
+      "Id": 30135,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsTextChildPatternAvailable",
+      "Id": 30136,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsDragPatternAvailable",
+      "Id": 30137,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "DragPattern.IsGrabbed",
+      "Id": 30138,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "DragPattern.DropEffect",
+      "Id": 30139,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "DragPattern.DropEffects",
+      "Id": 30140,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsDropTargetPatternAvailable",
+      "Id": 30141,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "DropTargetPattern.DropTargetEffect",
+      "Id": 30142,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "DropTargetPattern.DropTargetEffects",
+      "Id": 30143,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "DragGrabbedItems",
+      "Id": 30144,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Transform2Pattern.ZoomLevel",
+      "Id": 30145,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Transform2Pattern.ZoomMinimum",
+      "Id": 30146,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Transform2Pattern.ZoomMaximum",
+      "Id": 30147,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "FlowsFrom",
+      "Id": 30148,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsTextEditPatternAvailable",
+      "Id": 30149,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsPeripheral",
+      "Id": 30150,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsCustomNavigationPatternAvailable",
+      "Id": 30151,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "PositionInSet",
+      "Id": 30152,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "SizeOfSet",
+      "Id": 30153,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Level",
+      "Id": 30154,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AnnotationPattern.Types",
+      "Id": 30155,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "AnnotationPattern.Objects",
+      "Id": 30156,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LandmarkType",
+      "Id": 30157,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "LocalizedLandmarkType",
+      "Id": 30158,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "FullDescription",
+      "Id": 30159,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "FillColor",
+      "Id": 30160,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "OutlineColor",
+      "Id": 30161,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "FillType",
+      "Id": 30162,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "VisualEffects",
+      "Id": 30163,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "OutlineThickness",
+      "Id": 30164,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "CenterPoint",
+      "Id": 30165,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Rotation",
+      "Id": 30166,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "Size",
+      "Id": 30167,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "HeadingLevel",
+      "Id": 30173,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    },
+    {
+      "Type": 1,
+      "Name": "IsDialog",
+      "Id": 30174,
+      "IsRecorded": false,
+      "IsCustom": false,
+      "CheckedCount": 0
+    }
+  ],
+  "IsListeningFocusChangedEvent": true,
+  "IsListeningAllEvents": false,
+  "ListenScope": 3,
+  "Version": null,
+  "AppVersion": "1.1.990.1"
+}
